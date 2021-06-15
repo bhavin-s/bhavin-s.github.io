@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Bhavin Siritanaratkul, Dphil
+Bhavin Siritanaratkul, Dphil\
 Electrochemistry, Enzymes, Heterogeneous catalysis, Solar fuels
